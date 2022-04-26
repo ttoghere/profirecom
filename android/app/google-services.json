@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629967934317",
+    "project_id": "profirecom-9b476",
+    "storage_bucket": "profirecom-9b476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629967934317:android:64faaac6f2eee09e22c064",
+        "android_client_info": {
+          "package_name": "com.example.profirecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629967934317-63ujrhnrqga84v1akt70fq1s4puu3rs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHRa773V2GcoQeMGq-5P6Vw-nhizgMVWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629967934317-63ujrhnrqga84v1akt70fq1s4puu3rs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
